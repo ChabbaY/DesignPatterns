@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FactoryMethod" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="cloud.englert.patterns.creation.factorymethod.Main" />
+    <module name="DesignPatterns" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="cloud.englert.patterns.creation.factorymethod.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
