@@ -1,4 +1,4 @@
-package decorator;
+package cloud.englert.patterns.structure.decorator;
 
 public class Decorator implements Kaffee {
     private final Kaffee kaffee;

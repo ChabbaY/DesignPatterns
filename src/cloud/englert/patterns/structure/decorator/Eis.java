@@ -1,4 +1,4 @@
-package decorator;
+package cloud.englert.patterns.structure.decorator;
 
 public class Eis extends Decorator {
     public Eis(Kaffee kaffee) {

@@ -1,4 +1,4 @@
-package decorator;
+package cloud.englert.patterns.structure.decorator;
 
 public class Main {
     public static void main(String[] args) {
