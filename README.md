@@ -10,9 +10,14 @@
 ## Struktur
 - Adapter
 - **Decorator**
-- Facade
+- (Facade)
 
 ## Verhalten
-- **Fluent Interface**
+- (**Fluent Interface**)
 - **Null Object**
 - **Template Method**
+
+## UI Patterns
+- **Observer**
+- **Model View Controller (MVC)**
+- **Model View Presenter (MVP)**
