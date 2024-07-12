@@ -19,5 +19,5 @@
 
 ## UI Patterns
 - **Observer**
-- **Model View Controller (MVC)**
-- **Model View Presenter (MVP)**
+- (Model View Controller (MVC))
+- (Model View Presenter (MVP))
